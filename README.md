@@ -1,1 +1,1 @@
-"# TalentScout Hiring Assistant" 
+# TalentScout Hiring Assistant
