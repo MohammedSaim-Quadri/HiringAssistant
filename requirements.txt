@@ -1,0 +1,10 @@
+streamlit
+transformers
+numpy
+pandas
+tiktoken
+torch 
+torchvision 
+torchaudio
+einops
+pytest
