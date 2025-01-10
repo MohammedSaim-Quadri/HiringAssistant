@@ -1,4 +1,4 @@
-# TalentScout Hiring Assistant
+# AI Hiring Assistant
 
 ## Overview
 An intelligent AI assistant designed to streamline the recruitment process by collecting candidate information and conducting technical interviews.
